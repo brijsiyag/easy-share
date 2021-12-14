@@ -1,0 +1,17 @@
+.progress-bar {
+  height: 10px;
+  width: 50%;
+}
+.progress-bar-container {
+  width: 50%;
+  background-color: aliceblue;
+  border: 1px solid gray;
+  border-radius: 3px;
+  margin: 20px auto;
+}
+.uploadeding {
+  color: blue;
+}
+.uploaded-successfuly {
+  color: red;
+}
